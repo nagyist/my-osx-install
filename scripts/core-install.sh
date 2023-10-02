@@ -18,7 +18,8 @@ brew install warp
 curl -s -N 'https://warp-themes.com/d/6j8o3VqP8g6Rh8ovdJXr' | bash
 
 # install Hyper.js terminal & plugins
-brew install --cask hyper
-hyper i hyper-tailwind-dark
-hyper i hyper-search
-hyper i hyper-font-ligatures
+# >>> prefer warp over hyper
+# brew install --cask hyper
+# hyper i hyper-tailwind-dark
+# hyper i hyper-search
+# hyper i hyper-font-ligatures
